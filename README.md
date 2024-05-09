@@ -1,7 +1,7 @@
 # 👋 Hi
 I'm Tiziu, a student and programmer I think.
 ## 🚀 About Me
-I'm not a full stack developer
+- ❗ I'm not a full stack developer
 - 🌱 I am currently learning HTML, CSS and Javascript.
 - ⚡ Fun fact: I'm useless
   
