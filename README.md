@@ -1,5 +1,5 @@
 # 👋 Hi
-I'm Tiziu, a student and programmer I think.
+I'm Jherry, a student and programmer I think.
 ## 🗿 About Me
  ⚡ Fun fact: I'm useless
 ## 🛠 Skills
