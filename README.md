@@ -52,7 +52,6 @@ Soy estudiante y desarrollador en constante aprendizaje. Me interesa todo lo rel
 
 ![ttiziu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttiziu&show_icons=true&theme=graywhite&hide_border=true&locale=es&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttiziu&layout=compact&theme=graywhite&hide_border=true&langs_count=8)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttiziu&theme=github)
 ![Repos by Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttiziu&theme=github)
 ![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ttiziu&theme=github)
 
