@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Jherry!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hola, soy Jherry!
 
 Soy estudiante y desarrollador en constante aprendizaje. Me interesa todo lo relacionado con la programación, el desarrollo web y la tecnología creativa. Trato de mejorar un poco cada día, aunque a veces el bug más grande soy yo 😅.
 
