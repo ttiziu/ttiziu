@@ -19,31 +19,48 @@ Soy estudiante y desarrollador en constante aprendizaje. Me interesa todo lo rel
 ### 🌐 Desarrollo Web y Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,postcss,react,vite,nextjs,nodejs,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs,nodejs,firebase" />
   </a>
 </p>
 
 ### 🗄️ Bases de Datos
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+</p>
 
 ### ⚙️ Herramientas y Entorno
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  </a>
+</p>
 
 ---
 
 ## 🔗 Enlaces
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mi-portafolio-gamma-ashy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhvi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiziumeme@gmail.com?subject=Hola%20Jiji)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiziuwtf/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HsSR53ASP7)
+<p align="center">
+  <a href="https://mi-portafolio-gamma-ashy.vercel.app/" title="Portafolio">
+    <img src="https://skillicons.dev/icons?i=webflow" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhvi/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:tiziumeme@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/tiziuwtf/" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.com/invite/HsSR53ASP7" title="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://x.com/tiziuwtf" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 
 ---
 
