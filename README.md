@@ -33,7 +33,7 @@ Soy estudiante y desarrollador en constante aprendizaje. Me interesa todo lo rel
 ### ⚙️ Herramientas y Entorno
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,md" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,vercel,md" />
   </a>
 </p>
 
