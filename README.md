@@ -6,7 +6,7 @@ Soy estudiante y desarrollador en constante aprendizaje. Me interesa todo lo rel
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 💻 Lenguajes de Programación
 <p align="center">
