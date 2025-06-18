@@ -49,7 +49,7 @@ Soy estudiante y desarrollador en constante aprendizaje. Me interesa todo lo rel
 
 ---
 
-## 📊 Estadísticas de GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![ttiziu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttiziu&show_icons=true&theme=graywhite&hide_border=true&locale=es&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttiziu&layout=compact&theme=graywhite&hide_border=true&langs_count=8)
