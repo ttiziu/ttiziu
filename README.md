@@ -37,7 +37,7 @@
 
 ---
 
-## 🔗 Enlaces
+## 🔗 Links
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mi-portafolio-gamma-ashy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhvi/)
