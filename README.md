@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ¡Hi , I'm  Jherry!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Jherry!
 </h1>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts" />
@@ -12,21 +12,23 @@
 </p>
 
 
-### 🌐 Desarrollo Web y Frameworks
+### 🌐 Web Dev & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs,nodejs,firebase" />
   </a>
 </p>
 
-### 🗄️ Bases de Datos
+
+
+### 🗄️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
   </a>
 </p>
 
-### ⚙️ Herramientas y Entorno
+### ⚙️ Tools & Environment
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,npm,pnpm,github,linux,figma,vscode,visualstudio,vercel,md,notion" />
