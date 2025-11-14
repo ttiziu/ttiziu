@@ -51,7 +51,7 @@
 
 ### 🔗 Links
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mi-portafolio-gamma-ashy.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tiziu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhvi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiziumeme@gmail.com?subject=Hola%20Jiji)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiziuwtf/)
