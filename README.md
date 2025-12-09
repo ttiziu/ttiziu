@@ -29,5 +29,5 @@ $ ls ttiziu
 │   └── Android         Firebase CLI    Docker (opt)    
 │
 └── Databases
-    ├── PostgreSQL      MongoDB         SQLite          
+    └── PostgreSQL      MongoDB         SQLite          
 ```
