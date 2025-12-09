@@ -13,21 +13,20 @@ $ ls ttiziu
 │
 ├── Languages
 │   ├── JavaScript      TypeScript      C++             C#
-│   └── HTML            CSS                            
+│   └── HTML            CSS             Kotlin               
 │
 ├── Web Development
 │   ├── React           Next.js         Vite            TailwindCSS
-│   └── Node.js         PostCSS         Firebase        
+│   └── Node.js         PostCSS         Firebase         
 │
 ├── Cloud & Backend
 │   ├── AWS Lambda      DynamoDB        API Gateway     JWT
-│   └── S3              Serverless      Vercel
+│   └── S3              Serverless      Vercel          REST APIs
 │
 ├── Tools
-│   ├── VSCode          Cursor          Git             Linux
-│   ├── GitHub          Figma           Postman         Notion
-│   └── Android         Firebase CLI    Docker
+│   ├── VSCode          Cursor          Git             GitHub         Linux
+│   └── Figma           Postman         Notion          AndroidStudio  
 │
 └── Databases
-    └── PostgreSQL      MongoDB         SQLite          
+    └── PostgreSQL      MongoDB         DynamoDB        SQLite         NoSQL         
 ```
