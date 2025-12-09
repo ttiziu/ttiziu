@@ -5,8 +5,8 @@ $ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/master/hello.sh | sh
 ░░█ █░█ █▀▀ █▀█ █▀█ █▄█
 █▄█ █▀█ ██▄ █▀▄ █▀▄ ░█░                             
 ├── From Perú.
-├── Born on 2005.09.xx
-└── Joined GitHub on 2023.xx.xx
+├── Born on 2005.03.31
+└── Joined GitHub on 2023.06.23
 
 $ ls ttiziu
 ├── README.md
