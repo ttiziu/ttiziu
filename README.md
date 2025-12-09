@@ -20,13 +20,13 @@ $ ls ttiziu
 │   └── Node.js         PostCSS         Firebase        
 │
 ├── Cloud & Backend
-│   ├── AWS Lambda      DynamoDB        API Gateway     S3
-│   └── Serverless      Vercel          GitHub Actions  
+│   ├── AWS Lambda      DynamoDB        API Gateway     JWT
+│   └── S3              Serverless      Vercel
 │
 ├── Tools
 │   ├── VSCode          Cursor          Git             Linux
 │   ├── GitHub          Figma           Postman         Notion
-│   └── Android         Firebase CLI    Docker (opt)    
+│   └── Android         Firebase CLI    Docker
 │
 └── Databases
     └── PostgreSQL      MongoDB         SQLite          
