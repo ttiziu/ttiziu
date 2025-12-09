@@ -12,25 +12,22 @@ $ ls ttiziu
 ├── README.md
 │
 ├── Languages
-│   ├── JavaScript     TypeScript     Python
-│   ├── C++            C# 
-│   └── HTML           CSS
+│   ├── JavaScript      TypeScript      C++             C#
+│   └── HTML            CSS                            
 │
 ├── Web Development
-│   ├── React          Next.js        Vite
-│   ├── TailwindCSS    Node.js        PostCSS
-│   └── Firebase       
+│   ├── React           Next.js         Vite            TailwindCSS
+│   └── Node.js         PostCSS         Firebase        
 │
 ├── Cloud & Backend
-│   ├── AWS Lambda     DynamoDB       API Gateway
-│   └── S3             Serverless
+│   ├── AWS Lambda      DynamoDB        API Gateway     S3
+│   └── Serverless      Vercel          GitHub Actions  
 │
 ├── Tools
-│   ├── VSCode         Cursor         Git
-│   ├── GitHub         Linux          Figma
-│   └── Postman        Notion
+│   ├── VSCode          Cursor          Git             Linux
+│   ├── GitHub          Figma           Postman         Notion
+│   └── Android         Firebase CLI    Docker (opt)    
 │
 └── Databases
-    ├── PostgreSQL     MongoDB
-    └── SQLite
+    ├── PostgreSQL      MongoDB         SQLite          
 ```
