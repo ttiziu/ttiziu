@@ -2,8 +2,10 @@
 $ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/master/hello.sh | sh
 
 
-░░█ █░█ █▀▀ █▀█ █▀█ █▄█
-█▄█ █▀█ ██▄ █▀▄ █▀▄ ░█░                             
+     _  _   _  ___  ___  ___  _   _
+  _ | || |_| || __|| _ \| _ \| |_| |
+ | || ||  _  || _| |   /|   / \__, |
+  \__/ |_| |_||___||_|\_\_|\_\|___/
 ├── From Perú.
 ├── Born on 2005.03.31
 └── Joined GitHub on 2023.06.23

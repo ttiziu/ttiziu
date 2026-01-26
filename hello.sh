@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e "
    Tu futuro depende de lo que haces hoy, no de lo que sueñas mañana.
 
