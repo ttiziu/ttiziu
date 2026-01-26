@@ -1,7 +1,6 @@
 ```console
 $ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/master/hello.sh | sh
 
-
      _  _   _  ___  ___  ___  _   _
   _ | || |_| || __|| _ \| _ \| |_| |
  | || ||  _  || _| |   /|   / \__, |
