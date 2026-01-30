@@ -18,7 +18,7 @@ $ ls ttiziu
 │
 ├── Web Development
 │   ├── React           Next.js         Vite            TailwindCSS
-│   └── Node.js         PostCSS         Firebase         
+│   └── Node.js         PostCSS         Firebase        Supabase
 │
 ├── Cloud & Backend
 │   ├── AWS Lambda      DynamoDB        API Gateway     JWT
