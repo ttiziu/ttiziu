@@ -1,5 +1,5 @@
 ```console
-$ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/master/hello.sh | sh
+$ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/master/hello.sh
 
      _  _   _  ___  ___  ___  _   _
   _ | || |_| || __|| _ \| _ \| |_| |
@@ -13,21 +13,22 @@ $ ls ttiziu
 ├── README.md
 │
 ├── Languages
-│   ├── JavaScript      TypeScript      C++             C#
-│   └── HTML            CSS             Kotlin               
+│   ├── JavaScript      TypeScript      C++
+│   └── HTML            CSS             SQL
 │
-├── Web Development
-│   ├── React           Next.js         Vite            TailwindCSS
-│   └── Node.js         PostCSS         Firebase        Supabase
+├── Frontend
+│   ├── React           Next.js         Vite
+│   └── shadcn/ui       TailwindCSS
 │
-├── Cloud & Backend
-│   ├── AWS Lambda      DynamoDB        API Gateway     JWT
-│   └── S3              Serverless      Vercel          REST APIs
+├── Backend
+│   ├── Node.js         Supabase        Prisma
+│   └── S3              REST APIs       JWT
 │
-├── Tools
-│   ├── VSCode          Cursor          Git             GitHub         Linux
-│   └── Figma           Postman         Notion          AndroidStudio  
+├── Databases
+│   └── PostgreSQL      MongoDB   
 │
-└── Databases
-    └── PostgreSQL      MongoDB         DynamoDB        SQLite         NoSQL         
+└── Tools
+    ├── VSCode          Cursor          Git             GitHub        
+    └── Figma           Postman         Vercel          AndroidStudio
+
 ```
