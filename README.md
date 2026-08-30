@@ -17,8 +17,8 @@ $ ls ttiziu
 │   └── HTML            CSS             SQL
 │
 ├── Frontend
-│   ├── React           Next.js         Vite
-│   └── shadcn/ui       TailwindCSS
+│   ├── React           Next.js         Angular
+│   └── Vite            TailwindCSS
 │
 ├── Backend
 │   ├── NestJS          Spring Boot     Node.js
@@ -28,7 +28,8 @@ $ ls ttiziu
 │   └── PostgreSQL      MongoDB   
 │
 └── Tools
-    ├── VSCode          Cursor          Git             GitHub        
-    └── Figma           Postman         Vercel          AndroidStudio
+    ├── VSCode          Cursor          Git             GitHub
+    ├── Figma           Excalidraw      Postman         Slack
+    └── Docker          Vercel          Railway         AndroidStudio
 
 ```
