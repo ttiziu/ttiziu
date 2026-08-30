@@ -1,5 +1,5 @@
 ```console
-$ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/master/hello.sh
+$ curl -s https://raw.githubusercontent.com/ttiziu/ttiziu/main/hello.sh
 
      _  _   _  ___  ___  ___  _   _
   _ | || |_| || __|| _ \| _ \| |_| |
