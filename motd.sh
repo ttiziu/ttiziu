@@ -1,3 +1,5 @@
+#!/bin/bash
+echo -e "
    Tu futuro depende de lo que haces hoy, no de lo que sueñas mañana.
 
    Deja las excusas. Todos pueden y tú también.
@@ -9,3 +11,4 @@
    viaja, disfruta y sigue avanzando.
 
 ✨ Todo cambia cuando decides empezar.
+"
