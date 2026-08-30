@@ -13,7 +13,7 @@ $ ls ttiziu
 ├── README.md
 │
 ├── Languages
-│   ├── JavaScript      TypeScript      C++
+│   ├── JavaScript      TypeScript      Java
 │   └── HTML            CSS             SQL
 │
 ├── Frontend
@@ -21,8 +21,8 @@ $ ls ttiziu
 │   └── shadcn/ui       TailwindCSS
 │
 ├── Backend
-│   ├── Node.js         Supabase        Prisma
-│   └── S3              REST APIs       JWT
+│   ├── NestJS          Spring Boot     Node.js
+│   └── TypeORM         REST APIs       JWT
 │
 ├── Databases
 │   └── PostgreSQL      MongoDB   
