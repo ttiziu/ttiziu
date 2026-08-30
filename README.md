@@ -24,12 +24,12 @@ $ ls ttiziu
 │   ├── NestJS          Spring Boot     Node.js
 │   └── TypeORM         REST APIs       JWT
 │
-├── Databases
-│   └── PostgreSQL      MongoDB   
+├── Tools
+│   ├── VSCode          Cursor          Git             GitHub
+│   ├── Figma           Excalidraw      Postman         Slack
+│   └── Docker          Vercel          Railway         AndroidStudio
 │
-└── Tools
-    ├── VSCode          Cursor          Git             GitHub
-    ├── Figma           Excalidraw      Postman         Slack
-    └── Docker          Vercel          Railway         AndroidStudio
+└── Databases
+    └── PostgreSQL      MongoDB
 
 ```
