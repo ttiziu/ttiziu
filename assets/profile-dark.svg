@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="582" viewBox="0 0 640 582" role="img" aria-label="ttiziu@github">
+<svg xmlns="http://www.w3.org/2000/svg" width="463" height="432" viewBox="0 0 463 432" role="img" aria-label="ttiziu@github">
 <style>
     .row, tspan {
       font-family: Consolas, ui-monospace, SFMono-Regular, Menlo, monospace;
-      font-size: 14px;
+      font-size: 12px;
       white-space: pre;
     }
     .key { fill: #ffa657; }
@@ -11,27 +11,27 @@
     .add { fill: #3fb950; }
     .del { fill: #f85149; }
     </style>
-<text x="16" y="32" class="row"><tspan class="key">ttiziu@github</tspan><tspan class="muted">  ───────────────────────────────────────────────</tspan></text>
-<text x="16" y="53" class="row"><tspan class="key">OS:</tspan><tspan class="muted"> ....................... </tspan><tspan class="value">Ubuntu, macOS</tspan></text>
-<text x="16" y="74" class="row"><tspan class="key">Role:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">Full Stack Developer</tspan></text>
-<text x="16" y="95" class="row"><tspan class="key">Location:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">Lima, Perú</tspan></text>
-<text x="16" y="116" class="row"><tspan class="key">Editor:</tspan><tspan class="muted"> ................... </tspan><tspan class="value">VS Code, Cursor</tspan></text>
-<text x="16" y="137" class="row"><tspan class="key">Terminal:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">Zsh / Bash</tspan></text>
-<text x="16" y="179" class="row"><tspan class="key">Languages.Programming:</tspan><tspan class="muted"> .... </tspan><tspan class="value">TypeScript, JavaScript, Java, SQL</tspan></text>
-<text x="16" y="200" class="row"><tspan class="key">Frontend:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">React, Next.js, Angular, Vite</tspan></text>
-<text x="16" y="221" class="row"><tspan class="key">Backend:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">NestJS, Spring Boot, Node.js</tspan></text>
-<text x="16" y="242" class="row"><tspan class="key">Databases:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">PostgreSQL, MongoDB</tspan></text>
-<text x="16" y="263" class="row"><tspan class="key">Infrastructure:</tspan><tspan class="muted"> ........... </tspan><tspan class="value">Docker, Dokploy, Traefik, Cloudflare</tspan></text>
-<text x="16" y="284" class="row"><tspan class="key">Tools:</tspan><tspan class="muted"> .................... </tspan><tspan class="value">Git, GitHub, Postman, Figma</tspan></text>
-<text x="16" y="326" class="row"><tspan class="muted">- Homelab ─────────────────────────────────────────────────────-</tspan></text>
-<text x="16" y="347" class="row"><tspan class="key">Server:</tspan><tspan class="muted"> ................... </tspan><tspan class="value">Ubuntu Server</tspan></text>
-<text x="16" y="368" class="row"><tspan class="key">Deployments:</tspan><tspan class="muted"> .............. </tspan><tspan class="value">Dokploy</tspan></text>
-<text x="16" y="389" class="row"><tspan class="key">Proxy:</tspan><tspan class="muted"> .................... </tspan><tspan class="value">Traefik</tspan></text>
-<text x="16" y="410" class="row"><tspan class="key">Network:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">Cloudflare Tunnel, Tailscale</tspan></text>
-<text x="16" y="431" class="row"><tspan class="key">Containers:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">Docker</tspan></text>
-<text x="16" y="473" class="row"><tspan class="muted">- GitHub Stats ────────────────────────────────────────────────-</tspan></text>
-<text x="16" y="494" class="row"><tspan class="key">Repos:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">20</tspan><tspan class="muted"> {Contributed: </tspan><tspan class="value">24</tspan><tspan class="muted">} | </tspan><tspan class="key">Stars:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">3</tspan></text>
-<text x="16" y="515" class="row"><tspan class="key">Commits:</tspan><tspan class="muted"> .............. </tspan><tspan class="value">438</tspan><tspan class="muted"> | </tspan><tspan class="key">Followers:</tspan><tspan class="muted"> ............ </tspan><tspan class="value">13</tspan></text>
-<text x="16" y="536" class="row"><tspan class="key">Pull Requests:</tspan><tspan class="muted"> ........ </tspan><tspan class="value">77</tspan><tspan class="muted"> | </tspan><tspan class="key">Issues:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">0</tspan></text>
-<text x="16" y="557" class="row"><tspan class="key">Lines of Code:</tspan><tspan class="muted"> ........ </tspan><tspan class="value">235,160</tspan><tspan class="muted">   (</tspan><tspan class="add">286,217++</tspan><tspan class="muted">, </tspan><tspan class="del">51,057--</tspan><tspan class="muted">)</tspan></text>
+<text x="8" y="20" class="row"><tspan class="key">ttiziu@github</tspan><tspan class="muted">  ─────────────────────────────────────────</tspan></text>
+<text x="8" y="36" class="row"><tspan class="key">OS:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">Ubuntu, macOS</tspan></text>
+<text x="8" y="52" class="row"><tspan class="key">Role:</tspan><tspan class="muted"> ................... </tspan><tspan class="value">Full Stack Developer</tspan></text>
+<text x="8" y="68" class="row"><tspan class="key">Location:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">Lima, Perú</tspan></text>
+<text x="8" y="84" class="row"><tspan class="key">Editor:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">VS Code, Cursor</tspan></text>
+<text x="8" y="100" class="row"><tspan class="key">Terminal:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">Zsh / Bash</tspan></text>
+<text x="8" y="132" class="row"><tspan class="key">Languages.Programming:</tspan><tspan class="muted"> .. </tspan><tspan class="value">TypeScript, JavaScript, Java, SQL</tspan></text>
+<text x="8" y="148" class="row"><tspan class="key">Frontend:</tspan><tspan class="muted"> ............... </tspan><tspan class="value">React, Next.js, Angular, Vite</tspan></text>
+<text x="8" y="164" class="row"><tspan class="key">Backend:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">NestJS, Spring Boot, Node.js</tspan></text>
+<text x="8" y="180" class="row"><tspan class="key">Databases:</tspan><tspan class="muted"> .............. </tspan><tspan class="value">PostgreSQL, MongoDB</tspan></text>
+<text x="8" y="196" class="row"><tspan class="key">Infrastructure:</tspan><tspan class="muted"> ......... </tspan><tspan class="value">Docker, Dokploy, Traefik, Cloudflare</tspan></text>
+<text x="8" y="212" class="row"><tspan class="key">Tools:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">Git, GitHub, Postman, Figma</tspan></text>
+<text x="8" y="244" class="row"><tspan class="muted">- Homelab ─────────────────────────────────────────────-</tspan></text>
+<text x="8" y="260" class="row"><tspan class="key">Server:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">Ubuntu Server</tspan></text>
+<text x="8" y="276" class="row"><tspan class="key">Deployments:</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Dokploy</tspan></text>
+<text x="8" y="292" class="row"><tspan class="key">Proxy:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">Traefik</tspan></text>
+<text x="8" y="308" class="row"><tspan class="key">Network:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">Cloudflare Tunnel, Tailscale</tspan></text>
+<text x="8" y="324" class="row"><tspan class="key">Containers:</tspan><tspan class="muted"> ............. </tspan><tspan class="value">Docker</tspan></text>
+<text x="8" y="356" class="row"><tspan class="muted">- GitHub Stats ────────────────────────────────────────-</tspan></text>
+<text x="8" y="372" class="row"><tspan class="key">Repos:</tspan><tspan class="muted"> .......... </tspan><tspan class="value">20</tspan><tspan class="muted"> {Contributed: </tspan><tspan class="value">20</tspan><tspan class="muted">}</tspan><tspan class="muted">   </tspan><tspan class="key">Stars:</tspan><tspan class="muted"> .......... </tspan><tspan class="value">3</tspan></text>
+<text x="8" y="388" class="row"><tspan class="key">Commits:</tspan><tspan class="muted"> ........ </tspan><tspan class="value">437</tspan><tspan class="muted">                    </tspan><tspan class="key">Followers:</tspan><tspan class="muted"> ...... </tspan><tspan class="value">13</tspan></text>
+<text x="8" y="404" class="row"><tspan class="key">Pull Requests:</tspan><tspan class="muted"> .. </tspan><tspan class="value">77</tspan><tspan class="muted">                     </tspan><tspan class="key">Issues:</tspan><tspan class="muted"> ......... </tspan><tspan class="value">0</tspan></text>
+<text x="8" y="420" class="row"><tspan class="key">Lines of Code:</tspan><tspan class="muted"> .. </tspan><tspan class="value">234,973</tspan><tspan class="muted">                </tspan><tspan class="muted">(</tspan><tspan class="add">285,938++</tspan><tspan class="muted">, </tspan><tspan class="del">50,965--</tspan><tspan class="muted">)</tspan></text>
 </svg>
