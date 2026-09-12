@@ -93,7 +93,7 @@ def fetch_stars(headers: dict, login: str) -> int:
               user(login: $login) {
                 repositories(first: 100, after: $cursor, ownerAffiliations: OWNER) {
                   pageInfo { hasNextPage endCursor }
-                  nodes { stargazers { totalCount } }
+                  nodes { stargazerCount }
                 }
               }
             }
@@ -101,7 +101,7 @@ def fetch_stars(headers: dict, login: str) -> int:
             {"login": login, "cursor": cursor},
         )
         repos = data["user"]["repositories"]
-        total += sum(node["stargazers"]["totalCount"] for node in repos["nodes"])
+        total += sum(node["stargazerCount"] for node in repos["nodes"] if node)
         if not repos["pageInfo"]["hasNextPage"]:
             return total
         cursor = repos["pageInfo"]["endCursor"]
