@@ -4,3 +4,4 @@ venv/
 .env
 *.pyc
 .DS_Store
+cache/stats.json
