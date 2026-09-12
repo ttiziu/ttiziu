@@ -441,15 +441,17 @@ def with_logo(rows: list[list[tuple[str, str]]]) -> list[list[tuple[str, str]]]:
         padded.extend([None] * (len(rows) - len(padded)))
     elif len(rows) < len(padded):
         rows = rows + [[] for _ in range(len(padded) - len(rows))]
+    text_w = max((len(line_text(parts)) for parts in rows), default=0)
     gap = " " * LOGO_GAP
     combined: list[list[tuple[str, str]]] = []
     for i, parts in enumerate(rows):
         cell = padded[i]
-        left = [("logo", cell if cell is not None else " " * logo_w)]
+        right = [("logo", cell if cell is not None else " " * logo_w)]
+        pad = " " * (text_w - len(line_text(parts)) + LOGO_GAP)
         if parts:
-            combined.append(left + [("muted", gap)] + parts)
+            combined.append(parts + [("muted", pad)] + right)
         else:
-            combined.append(left)
+            combined.append([("muted", " " * (text_w + LOGO_GAP))] + right)
     return combined
 
 
