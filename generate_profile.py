@@ -28,7 +28,7 @@ LINE_HEIGHT = 16
 PAD_X = 8
 PAD_Y = 8
 CHAR_W = 7.22
-LOGO_GAP = 3
+LOGO_GAP = 8
 
 THEMES = {
     "dark": {
@@ -442,7 +442,6 @@ def with_logo(rows: list[list[tuple[str, str]]]) -> list[list[tuple[str, str]]]:
     elif len(rows) < len(padded):
         rows = rows + [[] for _ in range(len(padded) - len(rows))]
     text_w = max((len(line_text(parts)) for parts in rows), default=0)
-    gap = " " * LOGO_GAP
     combined: list[list[tuple[str, str]]] = []
     for i, parts in enumerate(rows):
         cell = padded[i]
