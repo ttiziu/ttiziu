@@ -299,6 +299,24 @@ def fmt_int(value: int) -> str:
     return f"{value:,}"
 
 
+def set_github_output(name: str, value: str) -> None:
+    path = os.environ.get("GITHUB_OUTPUT")
+    if not path:
+        return
+    with open(path, "a", encoding="utf-8") as fh:
+        fh.write(f"{name}={value}\n")
+
+
+def commit_message(user: dict, loc: dict) -> str:
+    repos = user["repositories"]["totalCount"]
+    followers = user["followers"]["totalCount"]
+    return (
+        f"stats: {fmt_int(loc['commits'])} commits, "
+        f"{fmt_int(followers)} followers, "
+        f"{fmt_int(repos)} repos"
+    )
+
+
 def dotted_parts(label: str, value: str, col: int = VALUE_COL) -> list[tuple[str, str]]:
     prefix = f"{label}:"
     dots = "." * max(col - len(prefix), 2)
@@ -511,7 +529,10 @@ def main() -> None:
     loc = lines_of_code(headers, login, user["id"])
 
     write_outputs(config, user, stars, loc, contributed)
+    message = commit_message(user, loc)
+    set_github_output("commit_message", message)
     print(f"Wrote {README_PATH} and assets/profile-{{dark,light}}.svg", flush=True)
+    print(message, flush=True)
     print(
         f"repos={owned} contributed={contributed} stars={stars} "
         f"commits={loc['commits']} loc={loc['net']}",
