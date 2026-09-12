@@ -38,15 +38,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate README
-        id: generate
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ttiziu
         run: python generate_profile.py
 
       - name: Commit stats
-        env:
-          COMMIT_MESSAGE: ${{ steps.generate.outputs.commit_message }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -54,6 +51,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "${COMMIT_MESSAGE:-stats: update profile}"
+            git commit -m "chore: update profile stats"
             git push
           fi
