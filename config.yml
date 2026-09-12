@@ -1,0 +1,22 @@
+# Datos que GitHub no conoce. El script solo pega esto en el README.
+username: ttiziu
+
+os: Ubuntu, macOS
+role: Full Stack Developer
+location: Lima, Perú
+editor: VS Code, Cursor
+terminal: Zsh / Bash
+
+languages_programming: TypeScript, JavaScript, Java, SQL
+frontend: React, Next.js, Angular, Vite
+backend: NestJS, Spring Boot, Node.js
+databases: PostgreSQL, MongoDB
+infrastructure: Docker, Dokploy, Traefik, Cloudflare
+tools: Git, GitHub, Postman, Figma
+
+homelab:
+  server: Ubuntu Server
+  deployments: Dokploy
+  proxy: Traefik
+  network: Cloudflare Tunnel, Tailscale
+  containers: Docker
